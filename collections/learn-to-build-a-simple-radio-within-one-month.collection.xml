@@ -1,0 +1,39 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col10292</md:content-id>
+  <md:title>Learn To Build A simple Radio Within One Month</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>c2c41d73-ac21-4f4a-93a7-2e0386cf8424</md:uuid>
+<md:slug>learn-to-build-a-simple-radio-within-one-month</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Chapter</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m81956"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
